@@ -1,1 +1,7 @@
-{"cloud":{"framework":"static"}}
+{
+  "cloud": {
+    "framework": "static",
+    "app_id": "b805e416-20f6-4e9e-a177-01e9a880cf99"
+  },
+  "siteId": "6ab7231341364cf1bf6ea605"
+}
